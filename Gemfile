@@ -63,3 +63,7 @@ end
 
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
+
+# important gem told to add in for challenge in kitt
+gem "simple_form", github: "heartcombo/simple_form"
+
